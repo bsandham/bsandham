@@ -1,5 +1,5 @@
 # Ben's Personal Repo For:
-## - <span style="color:green">Personal Projects</span>
+## - <span style="color:blue">Personal Projects</span>
     - Arbitrage Betting Script, Dark & Darker Market API
 ## - University Modules
     - Anything I'm Studying
