@@ -1,7 +1,10 @@
-Repo for: 
-- Personal Projects
-- University Modules
-- Degree Apprenticeship Portfolio
+### Ben's Personal Repo For:
+# - Personal Projects
+    - Arbitrage Betting Script, Dark & Darker Market API
+# - University Modules
+    - Anything I'm Studying
+# - Degree Apprenticeship Portfolio
+    - For EPA
 
 <!--
 **bsandham/bsandham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
