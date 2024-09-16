@@ -1,9 +1,9 @@
-### Ben's Personal Repo For:
-# - Personal Projects
+# Ben's Personal Repo For:
+## - <span style="color:green">Personal Projects</span>
     - Arbitrage Betting Script, Dark & Darker Market API
-# - University Modules
+## - University Modules
     - Anything I'm Studying
-# - Degree Apprenticeship Portfolio
+## - Degree Apprenticeship Portfolio
     - For EPA
 
 <!--
