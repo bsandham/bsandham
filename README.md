@@ -1,4 +1,7 @@
-## Hi there 👋
+Repo for: 
+- Personal Projects
+- University Modules
+- Degree Apprenticeship Portfolio
 
 <!--
 **bsandham/bsandham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
