@@ -1,4 +1,4 @@
-# Ben's Personal Repo For:
+# Ben's Repo For:
 ## - <span style="color:blue">Personal Projects</span>
     - Arbitrage Betting Script, Dark & Darker Market API
 ## - University Modules
