@@ -1,8 +1,8 @@
 # Ben's Repo For:
 ## - <span style="color:blue">Personal Projects</span>
-    - Arbitrage Betting Script, Dark & Darker Market API
+    - Arbitrage Betting Script, Vinted Scraper, StatArb V-Betting
 ## - University Modules
-    - Anything I'm Studying
+    - Anything I'm Studying. Currently Software Engineering and QDD
 ## - Degree Apprenticeship Portfolio
     - For EPA
 
