@@ -1,11 +1,10 @@
 # Ben's Repo
 
 ## About Me
-I'm a software engineer in financial services with a passion for applying mathematical and computational solutions to financial markets. My interests lie at the intersection of:
+I'm a software engineer in financial services with a passion for applying mathematical and computational solutions to financial markets. Interested in all of these:
 - Quantitative Finance
 - Low-latency design
 - Software Engineering & Algorithm Design
-- Mathematical Analysis
 
 ## Project Categories
 
@@ -20,12 +19,12 @@ I'm a software engineer in financial services with a passion for applying mathem
 
 ### University Modules
 Currently focusing on:
-- **Software Engineering**: Building robust, scalable applications
+- **Software Engineering**
 
 ## Tech Stack
-- **Languages**: [Python, JavaScript, Java, C++]
+- **Languages**: [Python, JavaScript, Java, C#, C++]
 - **Tools & Frameworks**: [Agile, Waterfall, Azure, Wireshark...]
-- **Mathematics**: Statistical analysis, probability theory, financial mathematics
+- **Mathematics**: Stats & probability
 
 ## Get in Touch
 [Personal: sandhambenjamin@gmail.com]
