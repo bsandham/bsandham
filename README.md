@@ -3,6 +3,7 @@
 ## About Me
 I'm a software engineer in financial services with a passion for applying mathematical and computational solutions to financial markets. Interested in all of these:
 - Quantitative Finance
+- Algo Trading
 - Low-latency design
 - Software Engineering & Algorithm Design
 
@@ -22,7 +23,7 @@ Currently focusing on:
 - **Software Engineering**
 
 ## Tech Stack
-- **Languages**: [Python, JavaScript, Java, C#, C++]
+- **Languages**: [Python, JavaScript, Java]
 - **Tools & Frameworks**: [Agile, Waterfall, Azure, Wireshark...]
 - **Mathematics**: Stats & probability
 
