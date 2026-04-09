@@ -12,6 +12,7 @@ I'm a software engineer in financial services with a passion for applying mathem
 - **Statistical Arbitrage on Low-Liquidity Markets**: ML-based stat arb for low liquidity markets on a betting exchange.
 - **OptionViewer**: Cool way of viewing Option contracts en-masse and individually. My introduction to frontend work. Public.
 - **SIMD-MC**: Pricing barrier options w/ Monte Carlo via SIMD. Headers-only library. Nice to explore SIMD before it gets formally added to C++ 26! Public.
+- **Sobol Sequence Generator**: High-dimensional SIMD-vectorised Sobol sequence generator, highly optimised using similar approaches to the above project. Designed with my Monte Carlo engine in mind, but can be applied anywhere. Public.
 
 ### Personal Projects
 - **Vinted Scraper**: Fun little birthday present for my Dad.
