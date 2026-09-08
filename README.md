@@ -1,9 +1,7 @@
 # Ben's Repo
 
 ## About Me
-I'm a software engineer in financial services (sell side) where I enjoy applying mathematical and computational solutions to financial markets. Currently:
-- Deriv pricing / RFQ
-- Low-latency design
+I'm a software engineer in financial services (sell side) where I enjoy applying mathematical and computational solutions to financial markets. 
 
 ## Project Categories
 
