@@ -11,7 +11,7 @@
 
 Low-latency C++ - SIMD, Monte Carlo, and quantitative systems.
 
-## Open source
+## Core contributions
 
 <table align="center">
   <tr>
@@ -33,6 +33,10 @@ Low-latency C++ - SIMD, Monte Carlo, and quantitative systems.
   <tr>
     <td><a href="https://github.com/bsandham/simd_mc"><b>simd_mc</b></a></td>
     <td>Barrier-option Monte Carlo pricing via SIMD</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/bsandham/goost"><b>goost</b></a></td>
+    <td>Boost fork - implementations done with Goose</td>
   </tr>
 </table>
 
