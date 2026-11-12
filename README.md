@@ -1,24 +1,30 @@
-# Ben's Repo
+<h1 align="center">Ben Sandham</h1>
 
-## About Me
-I'm a software engineer in financial services (sell side) where I enjoy applying mathematical and computational solutions to financial markets. 
+<p align="center"><sub>ultra-low-latency C++ · financial markets</sub></p>
 
-## Project Categories
+<p align="center">
+  <a href="https://github.com/bsandham">github</a> ·
+  <a href="mailto:sandhambenjamin@gmail.com">email</a>
+</p>
 
-### Other Betting / Financial Projects
-- **Applications of Arbitrage in Betting Exchanges**: Implementation of arbitrage in sports betting markets.
-- **Statistical Arbitrage on Low-Liquidity Markets**: ML-based stat arb for low liquidity markets on a betting exchange.
-- **OptionViewer**: Cool way of viewing Option contracts en-masse and individually. My introduction to frontend work for a University Project. Public.
-- **SIMD-MC**: Pricing barrier options w/ Monte Carlo via SIMD. Headers-only library. Nice to explore SIMD before it gets formally added to C++ 26! Public.
-- **Sobol Sequence Generator**: High-dimensional SIMD-vectorised Sobol sequence generator, highly optimised using similar approaches to the above project. Designed with my Monte Carlo engine in mind, but can be applied anywhere. I don't currently utilise it. Public as of 09.04.26.
+---
 
-### Personal Projects
-- **Vinted Scraper**: Fun little birthday present for my Dad.
-- **In-Game Auction Listing Scraper**: Not sure if anyone reading this plays Dark and Darker? Used WireShark to analyse network traffic between myself and the dark and darker marketplace. Reverse engineered Epic Games' tooling to be able to derive listing data from packets.
-- **SpotifyAnalyser**: Interacts with the Spotify API to give users insight into their Spotify listening. Has cool wordle-style minigames. University Project.
+Low-latency C++ — SIMD, Monte Carlo, and quantitative systems.
 
-## Tech Stack
-- **Languages**: [Python, JavaScript, Java, C++]
+## Open source
 
-## Get in Touch
-[Personal: sandhambenjamin@gmail.com]
+- **[sobol](https://github.com/bsandham/sobol)** — SIMD-vectorised Sobol sequence generator (C++20 · `std::experimental::simd`).
+- **[simd_mc](https://github.com/bsandham/simd_mc)** — stream-compacting barrier-option Monte Carlo using `std::experimental::simd`.
+
+More experiments live in [my repositories](https://github.com/bsandham?tab=repositories).
+
+## Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bsandham&theme=github_dark" alt="languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bsandham&theme=github_dark" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bsandham&theme=github_dark&hide_border=true" alt="streak" />
+</p>
