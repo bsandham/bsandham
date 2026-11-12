@@ -9,7 +9,7 @@
 
 ---
 
-Low-latency C++ — SIMD, Monte Carlo, and quantitative systems.
+Low-latency C++ - SIMD, Monte Carlo, and quantitative systems.
 
 ## Open source
 
@@ -20,11 +20,11 @@ Low-latency C++ — SIMD, Monte Carlo, and quantitative systems.
   </tr>
   <tr>
     <td><a href="https://github.com/monero-project/monero"><b>Monero</b></a></td>
-    <td>Core privacy coin — wallet tooling contributions</td>
+    <td>Core privacy coin - wallet tooling contributions</td>
   </tr>
   <tr>
     <td><a href="https://github.com/haveno-dex/haveno"><b>Haveno</b></a></td>
-    <td>Monero-based P2P exchange — trade fix</td>
+    <td>Monero-based P2P exchange - trade fix</td>
   </tr>
   <tr>
     <td><a href="https://github.com/bsandham/sobol"><b>sobol</b></a></td>
