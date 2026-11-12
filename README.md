@@ -1,6 +1,6 @@
 <h1 align="center">Ben Sandham</h1>
 
-<p align="center"><sub>ultra-low-latency C++ · financial markets</sub></p>
+<p align="center"><sub>ultra-low-latency C++ · Morgan Stanley</sub></p>
 
 <p align="center">
   <a href="https://github.com/bsandham">github</a> ·
@@ -13,10 +13,28 @@ Low-latency C++ — SIMD, Monte Carlo, and quantitative systems.
 
 ## Open source
 
-- **[Monero](https://github.com/monero-project/monero)** — merged `simplewallet: show default value in Y/N prompts` ([#11026](https://github.com/monero-project/monero/pull/11026)); open `wallet_rpc_server: make address optional in generate_from_keys` ([#10532](https://github.com/monero-project/monero/pull/10532)).
-- **[Haveno](https://github.com/haveno-dex/haveno)** — trade-deposit publication fix ([#2514](https://github.com/haveno-dex/haveno/pull/2514)).
-- **[sobol](https://github.com/bsandham/sobol)** — SIMD-vectorised Sobol sequence generator (C++20 · `std::experimental::simd`).
-- **[simd_mc](https://github.com/bsandham/simd_mc)** — stream-compacting barrier-option Monte Carlo using `std::experimental::simd`.
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>What it is</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/monero-project/monero"><b>Monero</b></a></td>
+    <td>Core privacy coin — wallet tooling contributions</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/haveno-dex/haveno"><b>Haveno</b></a></td>
+    <td>Monero-based P2P exchange — trade fix</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/bsandham/sobol"><b>sobol</b></a></td>
+    <td>SIMD Sobol sequence generator (C++20 · <code>std::experimental::simd</code>)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/bsandham/simd_mc"><b>simd_mc</b></a></td>
+    <td>Barrier-option Monte Carlo pricing via SIMD</td>
+  </tr>
+</table>
 
 ## Stats
 
